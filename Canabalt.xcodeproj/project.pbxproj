@@ -978,8 +978,9 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				"ARCHS[sdk=iphoneos*]" = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Darrel Johnson";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Martin Sander (Q5CXXE2497)";
 				COPY_PHASE_STRIP = YES;
+				CURRENT_PROJECT_VERSION = 1.0;
 				GCC_OPTIMIZATION_LEVEL = s;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Canabalt_Prefix.pch;
@@ -989,7 +990,7 @@
 				INFOPLIST_FILE = "Canabalt-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
 				PRODUCT_NAME = Canabalt;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "739A9136-0A9B-406F-8D3B-159EA2D34F05";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C4F30870-3572-4C4F-813B-CFF22A8D4A30";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -1001,8 +1002,9 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				"ARCHS[sdk=iphoneos*]" = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Darrel Johnson (J888WX2QM5)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Martin Sander (Q5CXXE2497)";
 				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1.0;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = s;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -1013,7 +1015,7 @@
 				INFOPLIST_FILE = "Canabalt-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 3.1;
 				PRODUCT_NAME = Canabalt;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D4754EFE-9CDA-4260-B87B-1BBEBEB4A168";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C4F30870-3572-4C4F-813B-CFF22A8D4A30";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -1024,8 +1026,9 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				"ARCHS[sdk=iphoneos*]" = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Darrel Johnson (J888WX2QM5)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Martin Sander (Q5CXXE2497)";
 				COPY_PHASE_STRIP = YES;
+				CURRENT_PROJECT_VERSION = 1.0;
 				GCC_OPTIMIZATION_LEVEL = s;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Canabalt_Prefix.pch;
@@ -1035,7 +1038,7 @@
 				INFOPLIST_FILE = "Canabalt-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
 				PRODUCT_NAME = Canabalt;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D4754EFE-9CDA-4260-B87B-1BBEBEB4A168";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C4F30870-3572-4C4F-813B-CFF22A8D4A30";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
